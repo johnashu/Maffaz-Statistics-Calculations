@@ -13,7 +13,7 @@ ms = MafStats()
 print("The ECDF of X is: \n", ms.ecdf(x), '\n')
 print("The ECDF of Y is:\n", ms.ecdf(y), '\n')
 
-#SQUAER ROOT
+#SQUARE ROOT
 num_in = 25
 print("The Square root of {} is:".format(num_in), ms.square_root(num_in))
 
